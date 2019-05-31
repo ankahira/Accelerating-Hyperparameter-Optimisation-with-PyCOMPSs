@@ -1,0 +1,7 @@
+{
+    "optimizer": ["Adam" ,"SGD", "RMSprop"],
+    "num_epochs": [10, 20, 50],
+    "batch_size": [32, 64, 128]
+
+}
+
